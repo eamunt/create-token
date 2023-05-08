@@ -4,7 +4,7 @@ pragma solidity ^0.8.9;
 contract Redapptoken {
     string  public name = "TieuHao";
     string  public symbol = "THT";
-    uint256 public totalSupply = 1000000000000000000000000; // 1 million tokens
+    uint256 public totalSupply = 1000000000000000000000000; // 1 million token
     uint8   public decimals = 18;
 
     event Transfer(
